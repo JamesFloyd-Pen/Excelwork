@@ -1,4 +1,4 @@
 # Excelwork
 
-A folder for project work and tutorial results
+A folder for personal project work examples and freeCodeCamp tutorial examples.
 
